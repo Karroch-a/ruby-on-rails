@@ -10,13 +10,3 @@ If you'd like to run the example locally, make sure you have Ruby and Rails inst
   2. `bin/rails server`
 
 After WEBrick starts up on port 3000 (it's default), you should be able to browse the rails app in your browser at something like `http://localhost:3000/`.
-
-## License
-
-MIT
-
-## Buy the Book
-
-[![Ansible for DevOps Cover](https://s3.amazonaws.com/titlepages.leanpub.com/ansible-for-devops/medium)](http://www.ansiblefordevops.com/)
-
-Buy [Ansible for DevOps](http://www.ansiblefordevops.com/) for your e-reader or in paperback format.
